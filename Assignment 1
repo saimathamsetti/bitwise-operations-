@@ -1,0 +1,15 @@
+a,b=map(int,input().split())
+print( a&b)
+print( a|b)
+print( a^b)
+print( a<<b)
+print( a>>b)
+
+Output: 
+
+4 5
+4
+5
+1
+128
+0
